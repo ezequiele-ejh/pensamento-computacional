@@ -3,4 +3,11 @@ body{
     color: azure;}
     section{
         background-color: azure;
+        padding-top: 60px;
+    }
+    header
+    {margin: 5%;
+    font-size: 50px;
+    text-align: center;
+    color black
     }
